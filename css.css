@@ -1,0 +1,22 @@
+body{background-color:black;
+    font-family: Georgia, serif;
+    margin: 15px;
+    
+
+}
+h1{color: aliceblue;
+text-align: center;
+text-decoration: underline;
+text-transform: capitalize;}
+p{color: antiquewhite;
+text-align: justify;
+padding:15px;
+border-radius: 10px;
+border-style: groove;
+background-color: brown;
+}
+
+img{
+    width: 46%;
+
+}
